@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmaravillas - Joe
 - 👀 I’m interested in learning new tech, sports, sci-fi
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently working on agentic AI systems
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me joemaravillas@gmail.com
 
